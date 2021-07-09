@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/API-Meteo/static/css/main.356bcfc9.chunk.css",
-    "main.js": "/API-Meteo/static/js/main.95b7137f.chunk.js",
-    "main.js.map": "/API-Meteo/static/js/main.95b7137f.chunk.js.map",
+    "main.css": "/API-Meteo/static/css/main.57de8779.chunk.css",
+    "main.js": "/API-Meteo/static/js/main.94657d0b.chunk.js",
+    "main.js.map": "/API-Meteo/static/js/main.94657d0b.chunk.js.map",
     "runtime-main.js": "/API-Meteo/static/js/runtime-main.0534cc2e.js",
     "runtime-main.js.map": "/API-Meteo/static/js/runtime-main.0534cc2e.js.map",
-    "static/js/2.ac10f862.chunk.js": "/API-Meteo/static/js/2.ac10f862.chunk.js",
-    "static/js/2.ac10f862.chunk.js.map": "/API-Meteo/static/js/2.ac10f862.chunk.js.map",
+    "static/js/2.d61cf087.chunk.js": "/API-Meteo/static/js/2.d61cf087.chunk.js",
+    "static/js/2.d61cf087.chunk.js.map": "/API-Meteo/static/js/2.d61cf087.chunk.js.map",
     "index.html": "/API-Meteo/index.html",
-    "static/css/main.356bcfc9.chunk.css.map": "/API-Meteo/static/css/main.356bcfc9.chunk.css.map",
-    "static/js/2.ac10f862.chunk.js.LICENSE.txt": "/API-Meteo/static/js/2.ac10f862.chunk.js.LICENSE.txt"
+    "static/css/main.57de8779.chunk.css.map": "/API-Meteo/static/css/main.57de8779.chunk.css.map",
+    "static/js/2.d61cf087.chunk.js.LICENSE.txt": "/API-Meteo/static/js/2.d61cf087.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.0534cc2e.js",
-    "static/js/2.ac10f862.chunk.js",
-    "static/css/main.356bcfc9.chunk.css",
-    "static/js/main.95b7137f.chunk.js"
+    "static/js/2.d61cf087.chunk.js",
+    "static/css/main.57de8779.chunk.css",
+    "static/js/main.94657d0b.chunk.js"
   ]
 }
